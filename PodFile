@@ -1,5 +1,0 @@
-target “IJKplayerTest” do
-pod 'AFNetworking', '~> 3.0'
-pod 'Masonry'
-pod 'SDWebImage', '~>3.8'
-end
